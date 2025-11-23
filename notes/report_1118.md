@@ -41,6 +41,6 @@ GPS 地殼變形
 ## 參考文獻
 1. [https://openai.com/zh-Hant/index/gpt-4-research/](https://tesis.earth.sinica.edu.tw/)
 2. [https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/](https://ds.iris.edu/seismon/swaves/index.php)
-   3.[https://www.startupterrace.com/post/ai%E5%B9%BB%E8%A6%BA%EF%BC%88hallucination%EF%BC%89%EF%BC%9A%E7%95%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%B6%93%E5%9C%B0%E8%83%A1%E8%AA%AA%E5%85%AB%E9%81%93%EF%BC%8C%E7%94%9F%E6%88%90%E5%BC%8Fai%E7%82%BA%E4%BD%95%E5%85%85%E6%BB%BF%E9%8C%AF%E8%AA%A4%E8%B3%87%E8%A8%8A%EF%BC%9F](https://physicstoday.aip.org/features/the-physics-of-earthquakes)
+3[https://www.startupterrace.com/post/ai%E5%B9%BB%E8%A6%BA%EF%BC%88hallucination%EF%BC%89%EF%BC%9A%E7%95%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%B6%93%E5%9C%B0%E8%83%A1%E8%AA%AA%E5%85%AB%E9%81%93%EF%BC%8C%E7%94%9F%E6%88%90%E5%BC%8Fai%E7%82%BA%E4%BD%95%E5%85%85%E6%BB%BF%E9%8C%AF%E8%AA%A4%E8%B3%87%E8%A8%8A%EF%BC%9F](https://physicstoday.aip.org/features/the-physics-of-earthquakes)
 
 
